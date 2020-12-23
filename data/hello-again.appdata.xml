@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Joshua Cronin <croninjt371@gmail.com> -->
+<component type="desktop">
+<custom>
+    <value key="x-appcenter-color-primary">#603461</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    <value key="x-appcenter-suggested-price">5</value>
+</custom>
+    <id>com.github.croninjt.hello</id>
+    <metadata_license>CCO</metadata_license>
+    <name>Hello Again</name>
+    <summary>Please Work!</summary>
+    <description>
+        <p>My first App, I hope it works!
+    </description>
+    </component>
